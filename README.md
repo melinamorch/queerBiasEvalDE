@@ -1,0 +1,2 @@
+Translated WinoQueer File [WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models](https://aclanthology.org/2023.acl-long.507/) (Felkner et al., ACL 2023)
+Mitigation Dataset Mastodon Posts queried, Filtered taz articles: Urchs, S., Thurner, V., Aßenmacher, M., Heumann, C., & Thiemichen, S. (2025). taz2024full [Data set]. 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Vienna. Zenodo. https://doi.org/10.5281/zenodo.15480855
