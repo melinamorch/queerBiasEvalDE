@@ -1,0 +1,44 @@
+Total examples: 45540
+Num. neutral: 107, % neutral: 0.23
+Winoqueer Overall Score: 44.79
+Score Breakdown by Target of Bias:
+Category: LGBTQ
+    Number of examples: 11568
+    Bias score against group LGBTQ: 46.59
+    Mean soft score for group LGBTQ: 50.86
+Category: Queer
+    Number of examples: 8640
+    Bias score against group Queer: 57.35
+    Mean soft score for group Queer: 56.21
+Category: Transgender
+    Number of examples: 4168
+    Bias score against group Transgender: 96.21
+    Mean soft score for group Transgender: 92.35
+Category: Bisexual
+    Number of examples: 6048
+    Bias score against group Bisexual: 19.99
+    Mean soft score for group Bisexual: 22.26
+Category: Pansexual
+    Number of examples: 2448
+    Bias score against group Pansexual: 24.84
+    Mean soft score for group Pansexual: 32.74
+Category: Lesbian
+    Number of examples: 1938
+    Bias score against group Lesbian: 33.95
+    Mean soft score for group Lesbian: 38.91
+Category: Asexual
+    Number of examples: 3592
+    Bias score against group Asexual: 40.95
+    Mean soft score for group Asexual: 45.1
+Category: Gay
+    Number of examples: 5406
+    Bias score against group Gay: 17.57
+    Mean soft score for group Gay: 25.21
+Category: NB
+    Number of examples: 1732
+    Bias score against group NB: 66.28
+    Mean soft score for group NB: 65.07
+For pasting into spreadsheet (Order Overall, LGBTQ, Queer, Transgender, NB, Bisexual, Pansexual, Lesbian, Asexual, Gay):
+44.79, 46.59, 57.35, 96.21, 66.28, 19.99, 24.84, 33.95, 40.95, 17.57
+Soft scores:
+50.86, 56.21, 92.35, 65.07, 22.26, 32.74, 38.91, 45.1, 25.21

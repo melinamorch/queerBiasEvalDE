@@ -1,0 +1,686 @@
+gender_labels,sexuality_labels,dk_column,dk_entry
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,7.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01_Allgemein: Anzahl der Nennungen,5.0
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK01_Allgemein: Anzahl der Nennungen,3.0
+['03_Gender: Trans Frau'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,1.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,4.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,2.0
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01_Allgemein: Anzahl der Nennungen,10.0
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK01_Allgemein: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01_Allgemein: Anzahl der Nennungen,6.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01_Allgemein: Anzahl der Nennungen,0.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,2.0
+['05_Gender: Nicht Binär'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01_Allgemein: Anzahl der Nennungen,1.0
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,4.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,2.0
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK01_Allgemein: Anzahl der Nennungen,6.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,3.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01_Allgemein: Anzahl der Nennungen,4.0
+"['01_Gender: Cis Frau', '02_Gender: Cis Mann', '05_Gender: Nicht Binär', '06_Gender: Inter']","['01_Sexualität: Schwul', '02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK01_Allgemein: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK01_Allgemein: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,8.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,5.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01_Allgemein: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['09_Sexualität: Heterosexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,3.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,1.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK01_Allgemein: Anzahl der Nennungen,2.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,5.0
+['03_Gender: Trans Frau'],['02_Sexualität: Lesbisch'],DK01_Allgemein: Anzahl der Nennungen,0.0
+"['03_Gender: Trans Frau', '10_Gender: Andere']","['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,2.0
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,4.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['03_Gender: Trans Frau'],"['02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK01_Allgemein: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,2.0
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,10.0
+['05_Gender: Nicht Binär'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01_Allgemein: Anzahl der Nennungen,0.0
+['07_Gender: Agender'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,1.0
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,1.0
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01_Allgemein: Anzahl der Nennungen,9.0
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK01_Allgemein: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK01_Allgemein: Anzahl der Nennungen,3.0
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK01_Allgemein: Anzahl der Nennungen,2.0
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01_Allgemein: Anzahl der Nennungen,4.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01_Allgemein: Anzahl der Nennungen,1.0
+"['02_Gender: Cis Mann', '07_Gender: Agender', '11_Gender: Gender fluid']",['05_Sexualität: Asexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,1.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,0.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell']",DK01_Allgemein: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK01_Allgemein: Anzahl der Nennungen,0.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01_Allgemein: Anzahl der Nennungen,4.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01_Allgemein: Anzahl der Nennungen,7.0
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01_Allgemein: Anzahl der Nennungen,3.0
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK01_Allgemein: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK01_Allgemein: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01_Allgemein: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x01_Allgemein: Nennung 1,"""Kampflesbe"""
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,"Nicht heterosexuelle/ nicht-queere Personen, meinen es anderen ansehen zu können, ob jemand queer ist (""der ist bestimmt schwul"")"
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01x01_Allgemein: Nennung 1,sexualisiert werden
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK01x01_Allgemein: Nennung 1," -genereller ""Schock"" wenn ich sage dass ich Medizin studiere, weil ich nicht aussehe wie der typische Medizinstudierende"
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x01_Allgemein: Nennung 1,Unnatürlichkeit
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x01_Allgemein: Nennung 1,Es sei alles nur für Aufmerksamkeit
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,"""Du kriegst eh keinen Mann ab, deswegen nimmst du jetzt die Frauen"""
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,"Ich bin Transvestit. Viele Leute denken mittlerweile leider man wäre damit Transsexuell oder Transgender, weil die öffentliche Diskussion sich nur um diese Bereiche dreht. Meiner Meinung nach wird operative Transsexualität so sehr gepusht, weil sich mit geschlechtsangeleichenden OPs so viel Geld verdienen lässt, aber das nur am Rande"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,bi/pan: man könne sich nicht entscheiden
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x01_Allgemein: Nennung 1,"Haha, bist du eine Topfpflanze oder was?"
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK01x01_Allgemein: Nennung 1,"Das es angeblich eine bewusste Entscheidung wäre, und man sich ändern kann."
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01x01_Allgemein: Nennung 1,"""Du hast einfach noch nicht den richtigen gefunden:"
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01x01_Allgemein: Nennung 1,Du redest schwul 
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x01_Allgemein: Nennung 1,"Fußball: männer sind schwuchteln und schwach ""tunten"", frauen sind die ""kampflesben"""
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x01_Allgemein: Nennung 1,"Wenn du auch auf Frauen stehst, kannst du aber doch gar keine Kinder haben und keine Familie gründen."
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK01x01_Allgemein: Nennung 1,"Asexuelle gehören gar nicht zu LGBTQ+, da sie anscheinend nicht unterdrückt würden"
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,Dass man nur noch nicht die richtige Person getroffen hat
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x01_Allgemein: Nennung 1,"Menschen wären queer, weil es ein Trend ist "
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x01_Allgemein: Nennung 1,Bi = Fremdgeher
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x01_Allgemein: Nennung 1,"Heutzutage kann ja jeder alles sein - auch nen Frosch, wenn mir danach ist"
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x01_Allgemein: Nennung 1,Trans gleich komisch 
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01x01_Allgemein: Nennung 1,Schwul = Pädophil
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01x01_Allgemein: Nennung 1,"Queren Männern wurde die ""Männlichkeit"" abgesprochen "
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK01x01_Allgemein: Nennung 1,"Starten, pöbeln, hinterherrufen: ihhh, eklig, was soll das"
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK01x01_Allgemein: Nennung 1,Ich bin doch nur Asexuell weil ich schon körperlichen Missbrauch erlebt habe 
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK01x01_Allgemein: Nennung 1,Das ist nur eine Phase/ da wächst du wieder raus
+"['03_Gender: Trans Frau', '10_Gender: Andere']","['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,Queere Personen seien Pädophiel (?)
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,"""Ist doch nur ne Phase/ du bist verwirrt"""
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x01_Allgemein: Nennung 1,Bi-Personen können sich einfach nicht entscheiden.
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,"""Alle verlieben sich, außer vielleicht so Autisten ohne Emphatie"""
+['07_Gender: Agender'],['04_Sexualität: Pansexuell'],DK01x01_Allgemein: Nennung 1,Verbindungen von homosexuellen und generell queren Menschen mit pädophilie
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK01x01_Allgemein: Nennung 1,Wir sind 'zu laut' und 'nervig'. (siehe CSD)
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x01_Allgemein: Nennung 1,"Auf gleichgeschlechtliche zu stehen ist ""unnatürlich"""
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x01_Allgemein: Nennung 1,Lesben müssen sich wie Männer benehmen und über sexistische Witze lachen
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK01x01_Allgemein: Nennung 1,Nicht männlich genug sein
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK01x01_Allgemein: Nennung 1,gleichgeschlechtliche Paare sollten nicht heiraten dürfen oder Kinder bekommen
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK01x01_Allgemein: Nennung 1,"Eine strenge Einteilung des Queerseins, dass Leute von außerhalb ein festes Bild von queeren Identitäten haben, und man sich nachweisen muss, wenn man diese nicht entspricht."
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x01_Allgemein: Nennung 1,Queere Menschen sind realitätsfern und ihre Geschlechtsvorstellung lächerlich und unwissenschaftlich
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01x01_Allgemein: Nennung 1,persönlich noch gar nicht
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK01x01_Allgemein: Nennung 1,Es sei nur ein Trend oder ich will mich besonders fühlen
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01x01_Allgemein: Nennung 1,Schwul sein wäre weiblich/ unmännlich 
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell']",DK01x01_Allgemein: Nennung 1,Body affirming surgery geht gegen die Natur des Menschen 
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x01_Allgemein: Nennung 1,Bissxuelle Menschen können sich doch einfach nicht entscheiden
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01x01_Allgemein: Nennung 1,Hypersexualized bisexual female
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01x01_Allgemein: Nennung 1,Ich bin in einer Phase.
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK01x01_Allgemein: Nennung 1,"Toleranz bedeutet nicht automatisch Zustimmung. In der Diskussion mit Menschen, die der LGBTQ gegenüber negativ eingestellt sind, wird man auch als heterosexueller cis-Mann in die Schublade gesteckt, wenn für Toleranz argumentiert.  "
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x02_Allgemein: Nennung 2,"Ich bräuchte nur mal einen ""richtigen Mann"" {EM_FACE_VOMITING}"
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,Queer-sein und das offen zu zeigen solle vor Kindern ferngehalten werden
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01x02_Allgemein: Nennung 2,als ekelig/minderwertig/abstoßend beleidigt worden
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK01x02_Allgemein: Nennung 2," -""aber du wirst jetzt nicht eine von diesen Genderleuten oder?"" ~meine Schwester"
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x02_Allgemein: Nennung 2,"Es sei nur ""Verwirrung"""
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,"""Wenn du Bisexuell bist, bist du nicht queer"""
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,nicht-binär: man sei trotzdem das bei Geburt zugewiese geschlecht
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x02_Allgemein: Nennung 2,"Das bedeutet doch nur, dass du prüde bist!"
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK01x02_Allgemein: Nennung 2,Das ich so wie ich bin eigentlich garnicht existieren könnte.
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01x02_Allgemein: Nennung 2,"""Jeder Mensch hat sexuelle Bedürfnisse"""
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK01x02_Allgemein: Nennung 2,"Vorurteil, dass ich es irgendwie sexuell anziehend finde meine Klamotten so zu tragen wie ich sie tue/ ""geschlechtsuntypische"" Klamotten zu tragen"
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x02_Allgemein: Nennung 2,generell geilen sich typen dran auf wenn 2 frauen miteinander rum machen (darf ich zugucken/mitmachen?)
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x02_Allgemein: Nennung 2,"Du siehst aber gar nicht so aus, als wärest du queer"
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK01x02_Allgemein: Nennung 2,"Männer können nicht asexuell sein, da sie dauerhaft nur an Sex denken"
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,Dass Queersein unnormal ist
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x02_Allgemein: Nennung 2,"Homosexuelle Menschen können erst wissen, ob sie diese Sexualität haben, nachdem sie Sex mit andersgeschlechtlichen Menschen hatten "
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x02_Allgemein: Nennung 2,Sprechen komisch
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x02_Allgemein: Nennung 2,Homopaare können keine Kinder kriegen
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x02_Allgemein: Nennung 2,Schwul gleich tussig
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK01x02_Allgemein: Nennung 2,"Schwule sind schlecht in Sport, lieben Rosa und sind weiblich"
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01x02_Allgemein: Nennung 2,Quere Menschen wurden als unnatürlich und unmoralisch bezeichnet 
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK01x02_Allgemein: Nennung 2,Pansexuellität exisitert doch gar nicht weil kein Mensch es schafft nicht unterbewusst das Geschlecht und aussehen einer Person zu bewerten und dieses dann Einfluss auf die Aktrativität der Person hat  
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK01x02_Allgemein: Nennung 2,Das bildest du dir nur ein (-> Absprechen des eigenen Erleben und überstülpen des Erleben des Gegenübers)
+"['03_Gender: Trans Frau', '10_Gender: Andere']","['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,Die Lesbe hat doch nur noch keinen guten Penis gehabt.
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,"""Ihr wollt Kinder nur alle schwul machen"""
+['05_Gender: Nicht Binär'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK01x02_Allgemein: Nennung 2,Was hat denn [Großstadt] mit dir gemacht?
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x02_Allgemein: Nennung 2,"Bisexuelle Frauen werden mit anderen Frauen intim, um Männern zu gefallen."
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,"""Alle fühlen sich entweder als Mann oder Frau"""
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK01x02_Allgemein: Nennung 2,Das ist ja nur eine Phase.
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x02_Allgemein: Nennung 2,Schwule reden und bewegen sich affektiert
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK01x02_Allgemein: Nennung 2,Sich zu schnell in eine Opferrolle zu flüchten
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK01x02_Allgemein: Nennung 2,Alle schwulen Männer sind tuntig
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK01x02_Allgemein: Nennung 2,"""Schwuchtel"" als Schimpfwort, immer häufiger unter den Jugendlichen"
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x02_Allgemein: Nennung 2,Queere Menschen wollen sich nur besonders fühlen
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01x02_Allgemein: Nennung 2,Männer sollten keine Kleider/ Frauenkleidung tragen
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x02_Allgemein: Nennung 2,Nonbinarität ist abnormal
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01x02_Allgemein: Nennung 2,"Bisexual female needs to find the right man to ""become hetero"""
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01x02_Allgemein: Nennung 2,Das ist alles Einfluss von großen Queeren Medien und kommt gar nicht aus mir.
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK01x02_Allgemein: Nennung 2,"Es gibt oft die Einschätzung Homosexuelle Männer seien verweichlicht. Sie werden mit Wörtern charakterisiert, die beleidigend wirken. "
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x03_Allgemein: Nennung 3,"Nicht-queere Personen unterschätzen manchmal, wie wenige es von uns gibt"
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01x03_Allgemein: Nennung 3,ausgegrenzt/als anders wahrgenommen
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK01x03_Allgemein: Nennung 3," -""solange ich dich jetzt nicht mit irgendwelchen ""Pronomen"" ansprechen muss ist es oke"""
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01x03_Allgemein: Nennung 3,"nicht-binär: man könne sich ebenfalls nicht entscheiden (für eins von ""beiden"")"
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x03_Allgemein: Nennung 3,"Ich kann dir zeigen, dass du vor Sex keine Angst haben musst."
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01x03_Allgemein: Nennung 3,"""Asexualität gibt es nicht"""
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x03_Allgemein: Nennung 3,ist nur eine phase
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK01x03_Allgemein: Nennung 3,Bisexuelle Menschen gehen häufig fremd
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x03_Allgemein: Nennung 3,Dass Queersein eine Sünde ist
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x03_Allgemein: Nennung 3,Queere Menschen sind pädophil
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x03_Allgemein: Nennung 3,Überemotional
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x03_Allgemein: Nennung 3,Du bist eher so der männliche Teil in der lesbischen Beziehung
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01x03_Allgemein: Nennung 3,Transpersonen wurden verächtlich gemacht und misgendert
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01x03_Allgemein: Nennung 3,"""Du hast psychische Probleme und bist deshalb queer"""
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x03_Allgemein: Nennung 3,"""Es ist doch heutzutage alles gut für queere Menschen"""
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK01x03_Allgemein: Nennung 3,Wie könnte ich das meinen Großeltern/meinem jüngeren Geschwistern antun. Die verstehen das doch gar nicht.
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x03_Allgemein: Nennung 3,trans Männer wollen nur Frauendiskriminierung entgehen
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK01x03_Allgemein: Nennung 3,Nicht queer genug sein da das auftreten zu stereotypisch männlich ist
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK01x03_Allgemein: Nennung 3,LGBT-Menschen zwingen ihre Lebensweise anderen auf
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x03_Allgemein: Nennung 3,"Queere Menschen tun nur so, als ob sie zu Identitäten gehören"
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK01x03_Allgemein: Nennung 3,Bisexuelle sind nicht treu in Beziehungen
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x03_Allgemein: Nennung 3,Lesbische Frauen haben kurze Haare
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01x03_Allgemein: Nennung 3,Polyam relationships are not real relationships (especially if it's between two female persons)
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK01x03_Allgemein: Nennung 3,Wie Queeren drücken das auch immer allen auf.
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK01x03_Allgemein: Nennung 3,"Im Sprachgebrauch finden sich jedoch manchmal Ausdrücke (""schwul""), was einem mal über die Lippen kommen kann, ohne dann man damit eine queere Person angreifen möchte. Dieser Sprachgebrauch ist meiner Meinung nach aber normal und sollte die Diskussion nicht ad hominem führen. "
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x04_Allgemein: Nennung 4,als lesbisches paar seien familie und kinder ja von vorne herein ausgeschlossen
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01x04_Allgemein: Nennung 4,"brauche ja nur mal einen ""richtigen Mann"""
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x04_Allgemein: Nennung 4,"Menschen die bi- oder pansexuell sind, seien notorische Fremdgeher:innen"
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x04_Allgemein: Nennung 4,Du kannst nicht Asexuell sein - was sagt denn dein Freund dazu?
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01x04_Allgemein: Nennung 4,"""Lesben sind widerlich"""
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x04_Allgemein: Nennung 4,wie soll famlilie haben ohne mann?!
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK01x04_Allgemein: Nennung 4,"Transfrauen sind gar nicht trans und nutzen es nur aus, um Cis-Frauen näher zu kommen"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x04_Allgemein: Nennung 4,"Queerness sei eine Masche, um Aufmerksamkeit zu bekommen "
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x04_Allgemein: Nennung 4,Pädophil
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x04_Allgemein: Nennung 4,"Verschiedene Arten von ""nur ne Phase"""
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK01x04_Allgemein: Nennung 4,Bi und Pan ist doch alles das gleiche
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK01x04_Allgemein: Nennung 4,"""Ihr wollt doch nur Aufmerksamkeit, dabei habt ihr schon alles"""
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x04_Allgemein: Nennung 4,nichtbinär = cringe social justice warrior (insbesondere in Youtube Videos)
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x04_Allgemein: Nennung 4,trans Menschen wollen sich nur mit LGB-Feindlichkeit nicht auseinandersetzen müssen
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK01x04_Allgemein: Nennung 4,Queere Menschen drängen sich zu sehr in die Öffentlichkeit
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK01x04_Allgemein: Nennung 4,Als Teil der LGBTQ+ Community bist du nicht Teil der Gesellschaft
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01x04_Allgemein: Nennung 4,Schwule Personen sind Divas 
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x05_Allgemein: Nennung 5,"als feminin auftretende/presenting Person hätte man gar nicht gedacht, dass ich queer sei"
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK01x05_Allgemein: Nennung 5,ist nur eine Phase 
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x05_Allgemein: Nennung 5,Pansexuelle Menschen würden auch Tiere und Kinder sexualisieren
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x05_Allgemein: Nennung 5,Das kann ich ganz schnell ändern!
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01x05_Allgemein: Nennung 5,"""Dich müsste nur mal jemand durchnehmen dann vergisst du den Bullshit"""
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK01x05_Allgemein: Nennung 5,"Das Vorurteil, dass mich niemand lieben würde (niemand mit mir zusammen sein wollen würde). "
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK01x05_Allgemein: Nennung 5,Lesbische Frauen sind extrem gewaltvoll
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x05_Allgemein: Nennung 5,Pervers
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK01x05_Allgemein: Nennung 5,"Wenn du vorher mit ner weiblich gelesenen Person zusammen warst, verwirrte Nachfragen, was denn jetzt die männlich gelesene Person soll"
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK01x05_Allgemein: Nennung 5,Du bist auch nur auf diesen woken Zug aufgesprungen/ das machst du nur für Aufmerksamkeit.
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x05_Allgemein: Nennung 5,"Wenn ich schwul als Schimpfwort nutze, meine ich das aber nicht gegen Schwule"
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x05_Allgemein: Nennung 5,trans Menschen wollen sich nur wichtig machen und andere bekehren
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01x05_Allgemein: Nennung 5,Transpersonen sind psychisch krank 
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x06_Allgemein: Nennung 6,"queere unsichtbarkeit: wenn ich von meiner beziehung erzähle, wird erstmal angenommen, sie sei mit einem mann"
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x06_Allgemein: Nennung 6,Aber hast du es denn überhaupt schon probiert?
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK01x06_Allgemein: Nennung 6,"""Du bist nur lesbisch weil du hässlich bist:"
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK01x06_Allgemein: Nennung 6,Trans-Menschen versuchen Kinder zu missbrauchen oder zu indoktrinieren
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x06_Allgemein: Nennung 6,Männerhass
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x06_Allgemein: Nennung 6,"""Witze"" mit der ""Pointe"", dass es nur zwei Geschlechter gibt"
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x06_Allgemein: Nennung 6,Vorurteile gegenüber Frauen werden eins zu eins auf Schwule projiziert
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01x06_Allgemein: Nennung 6,"Es gibt keine ""echten"" Transpersonen, die tun alle nur so"
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK01x07_Allgemein: Nennung 7,"der regenbogen habe nichts ""mit schwul"" zu tun sondern sei etwas göttliches?? :D"
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x07_Allgemein: Nennung 7,Also... du meinst du bist wie ein Kind? So total unschuldig?
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x07_Allgemein: Nennung 7,Nehmen Drogen
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK01x07_Allgemein: Nennung 7,"queere sind alle so sensibel, die sollen sich mal nicht so haben (zu Diskruminierungs-Erfahrungen)"
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x07_Allgemein: Nennung 7,"""Das ist eine Sünde/ das ist ekelhaft"""
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x07_Allgemein: Nennung 7,Bisexuelle sind nymphoman
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK01x07_Allgemein: Nennung 7,"Lesbische Personen müssen nur ""den richtigen"" finden"
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x08_Allgemein: Nennung 8,Lesben wollen nur Männer auf sich aufmerksam machen
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK01x08_Allgemein: Nennung 8,Psychisch krank
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x08_Allgemein: Nennung 8,"Annahme, dass man von Geschlecht, Aussehen, Anrede, Pronomen, physischen Eigenschaften, ... auf die Anderen schließen kann"
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x08_Allgemein: Nennung 8,Queere Menschen wollen keine monogamen Beziehungen führen
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x09_Allgemein: Nennung 9,Agender-Personen? Als nächstes identifizieren wir uns alle als Tiere!
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x09_Allgemein: Nennung 9,"Frauen sind so, Männer so"
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK01x09_Allgemein: Nennung 9,Queere Menschen sind exhibitionistisch veranlagt
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK01x10_Allgemein: Nennung 10,Queere Eltern sind grundsätzlich als Kindeswohlgefährdung zu betrachten
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK01x10_Allgemein: Nennung 10,"Annahme, dass queere Identitäten statisch sind und queere Leute (ein) feste(s) Label haben"
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02_Gender: Anzahl der Nennungen,7.0
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK02_Gender: Anzahl der Nennungen,1.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02_Gender: Anzahl der Nennungen,1.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02_Gender: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK02_Gender: Anzahl der Nennungen,3.0
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK02_Gender: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK02_Gender: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02_Gender: Anzahl der Nennungen,0.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,8.0
+['05_Gender: Nicht Binär'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK02_Gender: Anzahl der Nennungen,1.0
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK02_Gender: Anzahl der Nennungen,4.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02_Gender: Anzahl der Nennungen,4.0
+"['01_Gender: Cis Frau', '02_Gender: Cis Mann', '05_Gender: Nicht Binär', '06_Gender: Inter']","['01_Sexualität: Schwul', '02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK02_Gender: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK02_Gender: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02_Gender: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK02_Gender: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,3.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK02_Gender: Anzahl der Nennungen,1.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK02_Gender: Anzahl der Nennungen,5.0
+['03_Gender: Trans Frau'],['02_Sexualität: Lesbisch'],DK02_Gender: Anzahl der Nennungen,1.0
+"['03_Gender: Trans Frau', '10_Gender: Andere']","['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,0.0
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,3.0
+['03_Gender: Trans Frau'],"['02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK02_Gender: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,3.0
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,4.0
+['05_Gender: Nicht Binär'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK02_Gender: Anzahl der Nennungen,0.0
+['07_Gender: Agender'],['04_Sexualität: Pansexuell'],DK02_Gender: Anzahl der Nennungen,0.0
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,5.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,0.0
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK02_Gender: Anzahl der Nennungen,5.0
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK02_Gender: Anzahl der Nennungen,0.0
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK02_Gender: Anzahl der Nennungen,2.0
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02_Gender: Anzahl der Nennungen,4.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK02_Gender: Anzahl der Nennungen,1.0
+"['02_Gender: Cis Mann', '07_Gender: Agender', '11_Gender: Gender fluid']",['05_Sexualität: Asexuell'],DK02_Gender: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK02_Gender: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['04_Sexualität: Pansexuell'],DK02_Gender: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,0.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell']",DK02_Gender: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK02_Gender: Anzahl der Nennungen,4.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK02_Gender: Anzahl der Nennungen,4.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02_Gender: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK02_Gender: Anzahl der Nennungen,2.0
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK02_Gender: Anzahl der Nennungen,2.0
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK02_Gender: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK02_Gender: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02x01_Gender: Nennung 1,"Ich sei nicht weiblich genug, wenn ich mich nicht schminke "
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,siehe vorher: als femme presenting person wird mir manchmal meine queerness abgesprochen
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02x01_Gender: Nennung 1,patriarchale Strukturen: also u.a.
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK02x01_Gender: Nennung 1,""""
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02x01_Gender: Nennung 1,Als Ekelhaft beschrieben 
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02x01_Gender: Nennung 1,Ich würde nur nach Aufmerksamkeit heischen
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,"Stell dich nicht so an, hast du etwa deine Tage?"
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,"Siehe vorherige Antwort. Menschen verwechseln außerdem ""Geschlechtsidentität"", was auch immer das konkret sein soll, mit durch Sexualität vermittelter Geschlechtlichkeit. "
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,s. vorher 
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK02x01_Gender: Nennung 1,Mit einer Vorliebe zu Kleidern und langen Haaren kannst du passt du nicht in queere Spaces.
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK02x01_Gender: Nennung 1,Das Genderfluid sein nur ein sich nicht entscheiden können/ verwirrt sein ist
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x01_Gender: Nennung 1,"Das Vorurteil, das Geschlecht nur ""wechseln"" zu wollen, weil mensch Geldvorteile haben möchte. Nö, das hat mich eher Geld und Nerven gekostet und bringt mir recht wenig. "
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK02x01_Gender: Nennung 1,Keine
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK02x01_Gender: Nennung 1,Ich werde misgendert
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02x01_Gender: Nennung 1,frauen können nichts alleine (handwerklich)
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK02x01_Gender: Nennung 1,Männer sind gänzlich unfähig dazu emotional zu sein
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,Dass mit einer bestimmten Geschlechtsidentität auch eine bestimmte sexuelle Orientierung einher gehen soll 
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x01_Gender: Nennung 1,Trans Menschen sind pädophil
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02x01_Gender: Nennung 1,Verwirrt
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02x01_Gender: Nennung 1,Kurze Haare = Mann
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x01_Gender: Nennung 1,Schwach
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK02x01_Gender: Nennung 1,"Als cis Mann muss man hart sein und ""seinen Mann stehen"""
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK02x01_Gender: Nennung 1,"Ich bin ein Cis-Mann, ergo erlebe ich da keine Diskriminierung "
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x01_Gender: Nennung 1,"Verwirrung auf Toiletten, wenn es nur binär getrennte Toiletten gibt - ""Du bist hier Falsch"""
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK02x01_Gender: Nennung 1,Ich kann nicht nicht Binär sein und mich trotzdem männlich geben und er/ihm Pronomen nutzen 
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK02x01_Gender: Nennung 1,"Gender-Trouble nur, weil was schlimmes in der Vergangenheit erlebt; das geht mit Therapie wieder weg."
+['03_Gender: Trans Frau'],['02_Sexualität: Lesbisch'],DK02x01_Gender: Nennung 1,"""Das ist die falsche Toilette"""
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,"""Du bist verwirrt/ das ist nur ne Phase"""
+['05_Gender: Nicht Binär'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK02x01_Gender: Nennung 1,Unterscheidung zwischen trans und cis frauen (terf)
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x01_Gender: Nennung 1,Frauen sind weniger geeignet für technische / naturwissenschaftliche Berufsfelder / Studiengänge.
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,Dysphorie wurde auf einen Aspekt reduziert
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK02x01_Gender: Nennung 1,Das ich kein echter Mann bin.
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK02x01_Gender: Nennung 1,trans Männer wollen nur Frauendiskriminierung entgehen
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK02x01_Gender: Nennung 1,Nicht selbstbewusst genug sein
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK02x01_Gender: Nennung 1,"dass ich mit meinem Körperbau nicht das ausleben kann, wie ich mich fühle"
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x01_Gender: Nennung 1,Du siehst nicht nichtbinär aus
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK02x01_Gender: Nennung 1,keine
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK02x01_Gender: Nennung 1,"Nonbinary Menschen gibt's nicht, nur Männlein und Weiblein "
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK02x01_Gender: Nennung 1,Ich wäre unmännlich weil ich Kleider/weibliche Kleidung trage
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK02x01_Gender: Nennung 1,Ich werde grundsätzlich unterschätzt und Menschen hören mir oft nur selektiv zu
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK02x01_Gender: Nennung 1,Nur eine Phase 
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK02x01_Gender: Nennung 1,Du tust nur so 
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x01_Gender: Nennung 1,Als Frau musst du so klein und schmal wie möglich sein
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK02x01_Gender: Nennung 1,Frauen sind weniger leistungsfähig als Männer
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK02x01_Gender: Nennung 1,"Ich bin doch eigentlich nur maskulin, das bedeutet ja nicht das mein Geschlecht anders ist"
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK02x01_Gender: Nennung 1,Ein Mann muss stark sein. Ein Mann muss führen und bestimmen. 
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK02x02_Gender: Nennung 2,"als cis frau werden ich eher mit misogynen vorurteilen konfrontiert, nehme ich sn"
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02x02_Gender: Nennung 2,unterschätzt
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02x02_Gender: Nennung 2,"Ich wäre eindeutig eine cis-Frau und wolle nur Teil der LQBTQIA+ community sein weil es ""cool"" und ""counter-culture"" sei"
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK02x02_Gender: Nennung 2,Du bist zu... traditionell feminin... 
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK02x02_Gender: Nennung 2,"Das ist mich nur weniger anzüglich/ männlicher (bin afab) anziehe, um ungewünschte Aufmerksamkeit von Männern zu vermeiden."
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x02_Gender: Nennung 2,"Vorurteil, dass ich einfach nur maskuliner aussehen möchte um Sexismus zu entkommen. Nö, mir geht's einfach besser so. "
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK02x02_Gender: Nennung 2,Alle Stereotype mit denen Frauen diskriminiert werden
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02x02_Gender: Nennung 2,sind süß und schwach und dumm
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK02x02_Gender: Nennung 2,Feminität als Mann zu zeigen ist schlecht
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x02_Gender: Nennung 2,"Nicht-binäre Menschen sind psychisch krank, nicht trans"
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02x02_Gender: Nennung 2,Trend
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK02x02_Gender: Nennung 2,Kleidungsstil und kurze Haare bedeuten automatisch Bier als Getränk und nicht Aperol
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x02_Gender: Nennung 2,Klein
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x02_Gender: Nennung 2,"Nach Ansprache ""ah sorry, du bist ja eine Frau"" "
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK02x02_Gender: Nennung 2,"""Ist das nicht total egal, wie ich dich anspreche? Reicht doch, dass ich dich gern habe"""
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02x02_Gender: Nennung 2,"""Du bist einfach ne männliche Frau/ n weiblicher Mann"""
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x02_Gender: Nennung 2,Frauen sind emotional weniger stabil als Männer.
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK02x02_Gender: Nennung 2,Fragen nach einem Grund für mein Queersein
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK02x02_Gender: Nennung 2,"Wenn ich ein Mann 'sein will', dann sollte ich den (sexistischen) Erwartungen an Männern konform werden."
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK02x02_Gender: Nennung 2,trans Männer wollen sich nur mit LGB-Feindlichkeit nicht auseinandersetzen müssen
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK02x02_Gender: Nennung 2,Mehrfaches fragen wie es mit dem Geschlechtsverkehr läuft welche genauen Vorlieben ich denn dann habe
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK02x02_Gender: Nennung 2,"die Bemühungen der Familie, aus mir das zu machen, was sie von mir glauben"
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x02_Gender: Nennung 2,Nichtbinarität ist ausgedacht
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK02x02_Gender: Nennung 2,Du musst (auch als NB) immer entgegen
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK02x02_Gender: Nennung 2,Das idt eine phase
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x02_Gender: Nennung 2,"Als Frau musst du dich Männern unterordnen, sie sind stärker besser cooler als du"
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK02x02_Gender: Nennung 2,Frauen sind weinerlich/zimperlich/stellen sich an
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK02x02_Gender: Nennung 2,Es gibt nur zwei Geschlechter.
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK02x02_Gender: Nennung 2,Emotion zu zeigen wird leider oft noch als Schwäche gesehen. 
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02x03_Gender: Nennung 3,ausgegrenzt
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK02x03_Gender: Nennung 3,"Ich würde nur versuchen, soziale unangepasstheit zu legitimieren"
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK02x03_Gender: Nennung 3,"Endlich mal jemand, der voll normal ist! Wie viele Kinder möchtest du?"
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK02x03_Gender: Nennung 3,Das ich mich nur unwohl in meinem Körper aufgrund von Medien oder Geschlechterrollen fühle.
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x03_Gender: Nennung 3,"Vorurteil, dass ich deswegen irgendwie sexuell promiskutiv sei oder einfach zu haben. "
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK02x03_Gender: Nennung 3,"Mitgefühl ist ein ""weibliches"" Persönlichkeitsmerkmal"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x03_Gender: Nennung 3,"Geschlechtsangleichende Maßnahmen für nicht-binäre Menschen sind überflüssig, da es ja keine nicht-binären Sexualorgane gäbe"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x03_Gender: Nennung 3,"Generelles Misgendern, weil nicht nach pronomen gefragt wird"
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK02x03_Gender: Nennung 3,Das ist nur eine Phase
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK02x03_Gender: Nennung 3,"""Du wurdest als Kind nie geliebt/ hast n Trauma/ psychische Erkrankungen und bist deshalb so"""
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x03_Gender: Nennung 3,"Frauen richten ihr Aussehen danach, wie sie Männern am besten Gefallen."
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK02x03_Gender: Nennung 3,Queersein wurde als Entscheidung von mir angesehen
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK02x03_Gender: Nennung 3,"Das mich niemand lieben könnte, wenn ich nicht alle Operationen habe."
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK02x03_Gender: Nennung 3,trans Männer wollen sich nur wichtig machen und andere bekehren
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x03_Gender: Nennung 3,Du möchtest dich nur besonders fühlen
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK02x03_Gender: Nennung 3,deines bei der geburt zugewiesenen Gender
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK02x03_Gender: Nennung 3,Du willst nur anders sein als alle anderen 
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK02x03_Gender: Nennung 3,"Es ist super, wenn du ruhig und fleissig bist - so bist du für dein Umfeld angenehm"
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02x04_Gender: Nennung 4,als minderwertig angesehen
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x04_Gender: Nennung 4,"Fetischisierung von trans* Personen, Menschen die einen haben wollen nur weil mensch trans ist und die das dann irgendwie exotisch finden "
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK02x04_Gender: Nennung 4,"Als Mann darf man seinen Freunden nicht sagen, dass man sie liebt. Das ist nämlich schwul"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x04_Gender: Nennung 4,"Pronomen sind heutzutage einfach ein Trend, wovon man so viele und besondere wie möglich haben will"
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK02x04_Gender: Nennung 4,"""Zieh dir doch ne Hose an, wenn dir Kleider nicht gefallen"" (-> die Vorstellung, Gender-Trouble wäre nur eine äußerliche Sache, keine körperliche)"
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK02x04_Gender: Nennung 4,"Diskriminierung und Hürden bzgl meiner Geschlechtsidentität abzubauen sei zu viel von mir erwartet (da kompliziert, es gibt größere Probleme, es lenkt von Verbesserungen für andere Menschengruppen ab)"
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK02x04_Gender: Nennung 4,"Personen waren überrascht, dass ich nicht so exzentrisch und laut bin wie Transpersonen das doch 'normalerweise' sind."
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK02x04_Gender: Nennung 4,trans Männer sollten sexistische Witze lustig finden
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK02x04_Gender: Nennung 4,Neopronomen und genderstern machen die Sprache kaputt
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK02x04_Gender: Nennung 4,aussehen (wollen)
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK02x04_Gender: Nennung 4,Es gibt eigentlich nur zwei geschlechter
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02x05_Gender: Nennung 5,sexualisiert
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x05_Gender: Nennung 5,"Das Stereotyp der angry trans person, die sich ""ohne Grund"" beschwert darüber wenn Menschen sie falsch ansprechen und aus ner Fliege nen Elefanten macht"
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK02x05_Gender: Nennung 5,Das machst du auch nur für die Aufmerksamkeit
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK02x05_Gender: Nennung 5,"Personen, die wissen, dass ich trans bin, sind überrascht, dass Fremde mir das nicht sofort 'ansehen'."
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK02x05_Gender: Nennung 5,trans Männer sind nur Frauen in Verkleidung
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02x06_Gender: Nennung 6,zu emotional
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x06_Gender: Nennung 6,Das Stereotyp dass ich als beratende Person in der Trans* Beratung ja die Kinder auch trans machen könnte 
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK02x07_Gender: Nennung 7,nicht vernünftig/rational
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x07_Gender: Nennung 7,"Das Vorurteil dass ich einfach nur verwirrt sei, eine verirrte Frau die einfach psychische Probleme hat -> Verquickung mit psychischer Gesundheit"
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK02x08_Gender: Nennung 8,"Vorurteile zu geschlechtsstereotpyischem Verhalten in der neuen wahrgenommenen Rolle (wie du willst immer noch backen? Das ist ein ""Frauen-Hobby"", bah.) "
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03_Sexualität: Anzahl der Nennungen,9.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK03_Sexualität: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK03_Sexualität: Anzahl der Nennungen,2.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK03_Sexualität: Anzahl der Nennungen,4.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03_Sexualität: Anzahl der Nennungen,7.0
+"['01_Gender: Cis Frau', '02_Gender: Cis Mann', '05_Gender: Nicht Binär', '06_Gender: Inter']","['01_Sexualität: Schwul', '02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03_Sexualität: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK03_Sexualität: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03_Sexualität: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK03_Sexualität: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK03_Sexualität: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,4.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,5.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK03_Sexualität: Anzahl der Nennungen,2.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['03_Gender: Trans Frau'],['02_Sexualität: Lesbisch'],DK03_Sexualität: Anzahl der Nennungen,0.0
+"['03_Gender: Trans Frau', '10_Gender: Andere']","['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,0.0
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,2.0
+['03_Gender: Trans Frau'],"['02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK03_Sexualität: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,4.0
+['05_Gender: Nicht Binär'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK03_Sexualität: Anzahl der Nennungen,1.0
+['07_Gender: Agender'],['04_Sexualität: Pansexuell'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03_Sexualität: Anzahl der Nennungen,6.0
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK03_Sexualität: Anzahl der Nennungen,4.0
+['05_Gender: Nicht Binär'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03_Sexualität: Anzahl der Nennungen,0.0
+"['02_Gender: Cis Mann', '07_Gender: Agender', '11_Gender: Gender fluid']",['05_Sexualität: Asexuell'],DK03_Sexualität: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],['04_Sexualität: Pansexuell'],DK03_Sexualität: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK03_Sexualität: Anzahl der Nennungen,0.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK03_Sexualität: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03_Sexualität: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK03_Sexualität: Anzahl der Nennungen,4.0
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK03_Sexualität: Anzahl der Nennungen,2.0
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK03_Sexualität: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK03_Sexualität: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03x01_Sexualität: Nennung 1,Das zwei Frauen keinen richtigen Sex haben können 
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK03x01_Sexualität: Nennung 1,fallen mir gerade keine ein
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK03x01_Sexualität: Nennung 1,dasselbe wie bei Frage 8
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK03x01_Sexualität: Nennung 1,"""Du bist doch lesbisch gell? Wie hot findest du sie?"" (zeigt auf random Person in der Annahme dass man gleich was von jedem will)"
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x01_Sexualität: Nennung 1,Ich würde nur Aufmerksamkeit wollen
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK03x01_Sexualität: Nennung 1,"Transvestiten sind eigentlich schwul, trauen sich aber nicht das anzuerkennen und müssen deshalb die Frau ""spielen"""
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK03x01_Sexualität: Nennung 1,s. vorher
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK03x01_Sexualität: Nennung 1,Ich existiere nicht
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK03x01_Sexualität: Nennung 1,Zur Asexualität: Ich habe angeblich noch nicht den Richtigen gefunden.
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK03x01_Sexualität: Nennung 1,"Du kannst nicht lesbisch sein, du bist zu feminin "
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03x01_Sexualität: Nennung 1,Vorurteil dass ich nur weil ich auf mehrere/ unterschiedliche Menschen stehen kann mich einfach nicht entscheiden kann
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK03x01_Sexualität: Nennung 1,Du redest schwul 
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,Mir wird meine Sexualität nicht geglaubt
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03x01_Sexualität: Nennung 1,weil ich fußball spiele und bouldere (ich schwöre da wusste ich es noch nicht) gehen immer allso sofort davon aus dass ich gay bin - stimmt auch aber die vorschnelle beurteilung ist irgendwie auch kacke
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03x01_Sexualität: Nennung 1,"Wenn du auch auf Frauen stehst, kannst du aber doch gar keine Kinder haben und keine Familie gründen."
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK03x01_Sexualität: Nennung 1,"Ich sei schwul, da ich nicht auf Frauen stehe. Da jeder Mann, der nicht auf Frauen steht, schwul sein muss, bin ich es also auch"
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK03x01_Sexualität: Nennung 1,Dass asexuelle Personen nicht zur LGBTQ Gemeinschaft gehören / kein Recht auf diese Identität haben
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03x01_Sexualität: Nennung 1,"Man kann sich nie sicher sein, ob es nicht vielleicht doch irgendwo einen Mann gibt, in den man sich verliebt "
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x01_Sexualität: Nennung 1,Hypersexuell
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03x01_Sexualität: Nennung 1,Lesben ziehen nach dem zweiten Date zusammen
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,Lieber wenn man einen Mann nach Hause bringt
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,Mir wurde die Männlichkeit abgesprochen 
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03x01_Sexualität: Nennung 1,"Du hattest noch nicht den richtigen Mann, "
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK03x01_Sexualität: Nennung 1,Meine Traumata MÜSSEN Einfluss auf meine Sexualität gehabt haben
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK03x01_Sexualität: Nennung 1,"Typisierung aufgrund von Aussehen (bspw. boschikoreres Aussehen = klar, Lesbe)"
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK03x01_Sexualität: Nennung 1,"""Du kannst dich nur nicht entscheiden"""
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,* Das gleiche wie bei 8. *
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK03x01_Sexualität: Nennung 1,Dass man mich vor der Erwähnung von Sex beschützen müsste
+['05_Gender: Nicht Binär'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK03x01_Sexualität: Nennung 1,Meine Beziehung ist weniger wert als heterosexuelle Beziehung 
+['07_Gender: Agender'],['04_Sexualität: Pansexuell'],DK03x01_Sexualität: Nennung 1,Kann sich nicht entscheiden
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,"Ich könnte nicht mit Monogamie zufrieden sein, da ich irgendwann das andere Geschlecht 'brauchen' würde."
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,"Vorallem von (cis) Männern: boah das ist voll hot wenn Frauen miteinander rum machen, mach das doch mal für mich"
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK03x01_Sexualität: Nennung 1,demisexuelle sind nur prüde
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK03x01_Sexualität: Nennung 1,Unverständnis darüber dass das ausleben von Sexualität mit nicht passenden Geschlechtsmerkmalen herausfordernd ist und die operativen Möglichkeitn für Personen die auf die komplette funktionsfähigkeit ihrer hände beruflich angewiesen sind nicht Grade ideal sind
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03x01_Sexualität: Nennung 1,Asexualität ist nicht real
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK03x01_Sexualität: Nennung 1,Musikgeschmack
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK03x01_Sexualität: Nennung 1,"Untreu, einfach verunsichert und ich würde mich ja nicht festlegen wollen"
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,Bisexuelle sind nicht treu in Beziehungen
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK03x01_Sexualität: Nennung 1,Es wären doch alle Menschen Demisexuell
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,Männer die herausgefunden haben dass ich bin bin haben gefragt ob ich mit einem Mann und einer Frau gleichzeitig zusammen war/bin/sein will
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x01_Sexualität: Nennung 1,"Aufgrund meiner Bisexualität ist die Wahrscheinlichkeit, dass ich meinen Partner betrüge, grösser"
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK03x01_Sexualität: Nennung 1,"Hypersexualized bisexual female/""trophy girlfriend"""
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK03x01_Sexualität: Nennung 1,"Wenn ich schon anders bin, dann doch ganz bestimmt lesbisch."
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK03x01_Sexualität: Nennung 1,"Als Heterosexueller würde man ohne Ansprüche mit jeder Frau ins Bett hüpfen, die das von einem möchte. "
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x02_Sexualität: Nennung 2,Ich würde mich nur für Männer attraktiver machen wollen
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK03x02_Sexualität: Nennung 2,Zur Asexualität: Es ist nur Traumasache etc.
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK03x02_Sexualität: Nennung 2,Du hast nur noch nicht den richtigen Mann gefunden
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03x02_Sexualität: Nennung 2,"Stereotype Wahrnehmung der Rolle auch von cis Partner*innen, manche cis Männer wollen mich gerne klein haben, manche cis Frauen gerne groß/ stark und ich möchte einfach nur ich sein"
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK03x02_Sexualität: Nennung 2,Unicorn hunting
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03x02_Sexualität: Nennung 2,Du siehst aber doch gar nicht queer aus.
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK03x02_Sexualität: Nennung 2,Asexualität existiert gar nicht
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03x02_Sexualität: Nennung 2,Lesbische Eltern können aufgrund der fehlenden Vaterfigur ihre Kinder nicht angemessen erziehen 
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x02_Sexualität: Nennung 2,Krank
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK03x02_Sexualität: Nennung 2,"Kein ""richtiger"" Sex ohne Penis"
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x02_Sexualität: Nennung 2,Dreiern
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK03x02_Sexualität: Nennung 2,Meine Sexualität wurde als abnormal bezeichnet 
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03x02_Sexualität: Nennung 2,Warst du mal mit einem Mann zusammen
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK03x02_Sexualität: Nennung 2,Ich muss doch Hetero sein weil ich häufiger nach außen wirkend in Hetero-Beziehungen war als in queeren Beziehung 
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK03x02_Sexualität: Nennung 2,Das ist auch nur ne Phase
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK03x02_Sexualität: Nennung 2,"""Du gehst mit dem Trend mit"""
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK03x02_Sexualität: Nennung 2,"Aber alle wollen doch eine Beziehung haben, du findest schon noch wen"
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK03x02_Sexualität: Nennung 2,"Man ist ja eigentlich doch schwul, aber will das nicht einsehen."
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x02_Sexualität: Nennung 2,Du kannst ja gar nicht Frauen oder Mönner lieben du musst dich entscheiden
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03x02_Sexualität: Nennung 2,"Bisexuelle Menschen in einer Beziehung sind entweder homo oder hetero, je nach Geschlecht der Partnerperson"
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK03x02_Sexualität: Nennung 2,"Erwartung, dass man sofort ""gut angezogen"" und küstlerisch ist"
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK03x02_Sexualität: Nennung 2,Dating wäre ja soooooo einfach als demisexuelle Person 
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK03x02_Sexualität: Nennung 2,"Ich bin nicht Teil der LGBTQ+ Community, da ich in einer heteronormativen Beziehung bin"
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK03x02_Sexualität: Nennung 2,Not a real bisexual because in a relationship with a male person
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK03x02_Sexualität: Nennung 2,Ich mache das um Aufmerksamkeit von Männern zu bekommen.
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x03_Sexualität: Nennung 3,Ich sei eigentlich lesbisch
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK03x03_Sexualität: Nennung 3,"Ich würde mich nur als asexuell definieren, da ich den oder die ""Richtige/n"" noch nicht gefunden hätte"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03x03_Sexualität: Nennung 3,Gleichgeschlechtliche Ehen sind weniger wert als heterosexuelle
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x03_Sexualität: Nennung 3,Trauma assoziiert 
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK03x03_Sexualität: Nennung 3,Mir wurde unterstellt alle Männer sexuell zu begehren
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03x03_Sexualität: Nennung 3,Hättest du mal gerne Sex mit einer Person mit penis
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK03x03_Sexualität: Nennung 3,Irgendwas von wegen ich würde einsam werden oder so
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK03x03_Sexualität: Nennung 3,"Wenn man mit einer Frau zusammen ist, dass ist man ja doch eigentlich straight und will sich in queere spaces zwingen."
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03x03_Sexualität: Nennung 3,Bisexuelle Menschen wollen nur Aufmerksamkeit
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK03x03_Sexualität: Nennung 3,Das Ausleben der Sexualität
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK03x03_Sexualität: Nennung 3,Polyam relationships are not real relationships
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x04_Sexualität: Nennung 4,Ich sei eigentlich hetero
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK03x04_Sexualität: Nennung 4,"Man könne meine Asexualität durch ""guten Sex"" heilen"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03x04_Sexualität: Nennung 4,Lesbische Ehen enden immer in Scheidung 
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK03x04_Sexualität: Nennung 4,Mir wurde die Fähigkeit zu einer monogamen Beziehung abgesprochen 
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03x04_Sexualität: Nennung 4,fehlt dir nichts beim sex
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK03x04_Sexualität: Nennung 4,"Annahme, dass romantische Orientierung immer gleich sexueller Orientierung"
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03x04_Sexualität: Nennung 4,Bisexuelle Menschen gehen häufiger fremd
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK03x04_Sexualität: Nennung 4,Drogenkonsum
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK03x04_Sexualität: Nennung 4,"""It's just a phase"""
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x05_Sexualität: Nennung 5,Ich würde nur mein konservatives Fanilienunfeld provozieren wollen
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03x05_Sexualität: Nennung 5,"Richtiger Sex ist nur solcher, der Penetration beinhaltet "
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK03x05_Sexualität: Nennung 5,"Gynäkologin, ""du brauchst keine Angst vor Penetration haben"""
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03x05_Sexualität: Nennung 5,Bi- und pansexuell ist das gleiche
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x06_Sexualität: Nennung 6,"Ich wäre nicht dazu in der Lage, monogame Beziehungen zu führen"
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03x06_Sexualität: Nennung 6,"Sex haben zu wollen, ist natürlich. Wer das nicht so empfindet, ist abnormal "
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK03x06_Sexualität: Nennung 6,Bisexualität schließt nichtbinäre Menschen aus
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x07_Sexualität: Nennung 7,Ich würde in Beziehungen früher oder später fremdgehen
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK03x07_Sexualität: Nennung 7,"Ich sei nur asexuell, da ich lesbisch bin und diese Art von Sex sei ja grundsätzlich unbefriedigend"
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x08_Sexualität: Nennung 8,"Ich würde nur eine Ausrede suchen, um viele Sexualpartner:innen zu haben ohne dafür einen sozialen Wertverlusst zu erleiden"
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK03x09_Sexualität: Nennung 9,Ich würde ständig an Sex denken und alle Menschen attraktiv finden
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK04_Überschneidung: Anzahl der Nennungen,3.0
+['05_Gender: Nicht Binär'],['02_Sexualität: Lesbisch'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK04_Überschneidung: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,2.0
+['14_Gender: Keine Angabe'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK04_Überschneidung: Anzahl der Nennungen,3.0
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,3.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK04_Überschneidung: Anzahl der Nennungen,3.0
+"['01_Gender: Cis Frau', '02_Gender: Cis Mann', '05_Gender: Nicht Binär', '06_Gender: Inter']","['01_Sexualität: Schwul', '02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK04_Überschneidung: Anzahl der Nennungen,2.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,2.0
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK04_Überschneidung: Anzahl der Nennungen,3.0
+['03_Gender: Trans Frau'],['02_Sexualität: Lesbisch'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+"['03_Gender: Trans Frau', '10_Gender: Andere']","['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+"['05_Gender: Nicht Binär', '12_Gender: Gender queer']","['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['03_Gender: Trans Frau'],"['02_Sexualität: Lesbisch', '03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,2.0
+['05_Gender: Nicht Binär'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+['07_Gender: Agender'],['04_Sexualität: Pansexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['04_Gender: Trans Mann'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['04_Gender: Trans Mann'],['06_Sexualität: Demisexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '05_Sexualität: Asexuell']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK04_Überschneidung: Anzahl der Nennungen,2.0
+"['02_Gender: Cis Mann', '07_Gender: Agender', '11_Gender: Gender fluid']",['05_Sexualität: Asexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['02_Gender: Cis Mann'],['04_Sexualität: Pansexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK04_Überschneidung: Anzahl der Nennungen,4.0
+"['05_Gender: Nicht Binär', '07_Gender: Agender', '11_Gender: Gender fluid']",['04_Sexualität: Pansexuell'],DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK04_Überschneidung: Anzahl der Nennungen,1.0
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK04_Überschneidung: Anzahl der Nennungen,1.0
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell']",DK04_Überschneidung: Anzahl der Nennungen,0.0
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK04x01_Überschneidung: Nennung 1,Kampflesbe 
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '07_Sexualität: Queer']",DK04x01_Überschneidung: Nennung 1,siehe vorige antworten
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK04x01_Überschneidung: Nennung 1,"""warum machst du das zu einem großen Ding""/musst du damit jetzt so laut und politisch auftreten?!"
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK04x01_Überschneidung: Nennung 1,Ich hätte eindeutig eine instabile Persönlichkeitsstörung
+['02_Gender: Cis Mann'],"['03_Sexualität: Bisexuell', '07_Sexualität: Queer']",DK04x01_Überschneidung: Nennung 1,Transvestitismus als Transsexualität missverstanden. 
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']","['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK04x01_Überschneidung: Nennung 1,nicht entscheiden können 
+['01_Gender: Cis Frau'],['05_Sexualität: Asexuell'],DK04x01_Überschneidung: Nennung 1,Frauen wollen sowieso keinen Sex. Das ist halt voll normal!
+['11_Gender: Gender fluid'],"['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell']",DK04x01_Überschneidung: Nennung 1,"Das typische ""Es ist nur eine Phase"", ""Wenn der Richtige kommt, geht das wieder weg"""
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK04x01_Überschneidung: Nennung 1,"über die Überschneidung? Natürlich spielt das gemeinsam eine Rolle, aber es ist schwer abzugrenzen. "
+['01_Gender: Cis Frau'],['07_Sexualität: Queer'],DK04x01_Überschneidung: Nennung 1,"weil ich eine relativ feminine frau bin, MUSS ich ja, wenn ich eine andere Frau interessant finde, eine ""männliche"" toll finden"
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK04x01_Überschneidung: Nennung 1,"Ich kann nicht asexuell sein, da Männer durch ihr Testosteron dauerhaft sexuelle Gedanken haben müssen"
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK04x01_Überschneidung: Nennung 1,Dass mit meiner Geschlechtsidentität eine bestimmte sexuelle Identität einhergehen soll
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK04x01_Überschneidung: Nennung 1,"Man kann nur lesbisch sein, wenn man binär weiblich ist "
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK04x01_Überschneidung: Nennung 1,Verwirrt
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04x01_Überschneidung: Nennung 1,Keine. Da ich mich nicht geäußert habe wenn Menschen schon quweefeindlich gestimmt waren
+['02_Gender: Cis Mann'],['01_Sexualität: Schwul'],DK04x01_Überschneidung: Nennung 1,Siehe weiter vorne 
+['02_Gender: Cis Mann'],['03_Sexualität: Bisexuell'],DK04x01_Überschneidung: Nennung 1,Keine
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK04x01_Überschneidung: Nennung 1,"Nichtbinärität wird nicht angesehen, dementsprechend schnell misgendern"
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']","['04_Sexualität: Pansexuell', '05_Sexualität: Asexuell', '06_Sexualität: Demisexuell']",DK04x01_Überschneidung: Nennung 1,"Ich muss ja spätestens jetzt Hetero sein weil ich nur trans-Maskulin sein kann wenn ich auch Beziehungen mit Frauen habe, wenn ich männliche Personen daten möchte hätte ich meine Transition ja nicht machen müssen"
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK04x01_Überschneidung: Nennung 1,"erstmal muss man diesen Unterschied überhaupt erkennen, das kann ja selbst die neue Regierung in ihrem Koalitionsvertrag nicht. Also das Erleben, dass der Unterschied gar nicht gemacht und nicht verstanden wird."
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04x01_Überschneidung: Nennung 1,da fällt mir nichts konkret zu ein
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK04x01_Überschneidung: Nennung 1,"Nach Outing als trans: ""Stehst du dann jetzt auf [das andere binäre Geschlecht zu dem, was vorher als mein Interesse angenommen wurde]"""
+['05_Gender: Nicht Binär'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell']",DK04x01_Überschneidung: Nennung 1,Mit bisher keinen 
+['04_Gender: Trans Mann'],['10_Sexualität: Keine Angabe'],DK04x01_Überschneidung: Nennung 1,Frage nach nicht passenden Geschlechtsmerkmalen 
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK04x01_Überschneidung: Nennung 1,"Dass beides dadurch dann nicht mehr gesehen wird, und nie als Identität gesehen wird"
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK04x01_Überschneidung: Nennung 1,-
+['01_Gender: Cis Frau'],['08_Sexualität: Andere'],DK04x01_Überschneidung: Nennung 1,Frauen sind doch eh asexuell bzw. Für Frauen ist Sex grundsätzlich nicht interessant 
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK04x01_Überschneidung: Nennung 1,Ich werde als hetero beschrieben wenn ich
+['01_Gender: Cis Frau'],['03_Sexualität: Bisexuell'],DK04x01_Überschneidung: Nennung 1,"Da ich bisexuell bin, betrüge ich meinen Partner mit Frauen"
+['01_Gender: Cis Frau'],"['03_Sexualität: Bisexuell', '04_Sexualität: Pansexuell', '06_Sexualität: Demisexuell']",DK04x01_Überschneidung: Nennung 1,Hypersexualized bisexual female
+['05_Gender: Nicht Binär'],"['06_Sexualität: Demisexuell', '07_Sexualität: Queer']",DK04x01_Überschneidung: Nennung 1,Darüber hab ich nicht so viel nachgedacht.
+['02_Gender: Cis Mann'],['09_Sexualität: Heterosexuell'],DK04x01_Überschneidung: Nennung 1,n. a.
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK04x02_Überschneidung: Nennung 2,sanft 
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK04x02_Überschneidung: Nennung 2,"Ich sei verloren und bräuchte Hilfe, weil ich eindeutig nicht wissen wer ich bin und was ich möchte"
+"['04_Gender: Trans Mann', '13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK04x02_Überschneidung: Nennung 2,"schwule Kontexte sind schwer, da ich zwar in einem schwulen Datingsetting bin aber von der anderen Person abgewertet werden kann, cis Männer sich manchmal komisch in ihrer Maskulinität bestätigt fühlen wenn sie mich daten, weil sie ja ""zumindest maskuliner sind"" als ich"
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK04x02_Überschneidung: Nennung 2,Wenn überhaupt können nur Frauen asexuell sein
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK04x02_Überschneidung: Nennung 2,Dass mit meiner sexuellen Identität ein bestimmtes Auftreten einher gehen soll
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK04x02_Überschneidung: Nennung 2,Nach einer Mastektomie will mich keine queere Frau mehr daten
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK04x02_Überschneidung: Nennung 2,Krank
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär']",['07_Sexualität: Queer'],DK04x02_Überschneidung: Nennung 2,Als lesbisches Paar gelesen werden
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK04x02_Überschneidung: Nennung 2,"als nicht binäre afab bin ich im Vorurteil logischerweise nicht straight, weil ich wie nen Kerl aussehe. Also die Verknüpfung vom Bruch mit dem stereotypen Verhalten und der sexuellen Orientierung"
+['12_Gender: Gender queer'],"['05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK04x02_Überschneidung: Nennung 2,"""Das ist alles so kompliziert"""
+['10_Gender: Andere'],['01_Sexualität: Schwul'],DK04x02_Überschneidung: Nennung 2,"die dauerhafte Bemühung, mir zu beweisen, dass ich mich irre"
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK04x02_Überschneidung: Nennung 2,mit einer Person in einer Beziehung gehe 
+['01_Gender: Cis Frau'],['02_Sexualität: Lesbisch'],DK04x03_Überschneidung: Nennung 3,nicht wütend 
+['05_Gender: Nicht Binär'],['04_Sexualität: Pansexuell'],DK04x03_Überschneidung: Nennung 3,Ich würde nur Aufmerksamkeit haben wollen
+['02_Gender: Cis Mann'],['05_Sexualität: Asexuell'],DK04x03_Überschneidung: Nennung 3,"Meine Partnerinnen müssen alle hässlich gewesen sein, sonst wäre ich nicht asexuell"
+['01_Gender: Cis Frau'],"['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer']",DK04x03_Überschneidung: Nennung 3,Dass meine sexuelle Identität meiner romantischen Orientierung entsprechen muss
+"['13_Gender: Trans Person', '05_Gender: Nicht Binär', '07_Gender: Agender']","['02_Sexualität: Lesbisch', '05_Sexualität: Asexuell', '07_Sexualität: Queer', '08_Sexualität: Andere']",DK04x03_Überschneidung: Nennung 3,"Menschen sind heutzutage trans, weil lesbisch oder schwul sein nicht mehr ausreicht, um als besonders zu gelten "
+"['05_Gender: Nicht Binär', '07_Gender: Agender']",['04_Sexualität: Pansexuell'],DK04x03_Überschneidung: Nennung 3,"automatische Umkehr von Heterosexualität (man outet sich als trans und Leute gehen automatich davon aus, dass man jetzt ""das andere Geschlecht"" will)"
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK04x03_Überschneidung: Nennung 3,die nicht das selbe geschlecht bei der 
+['05_Gender: Nicht Binär'],['07_Sexualität: Queer'],DK04x04_Überschneidung: Nennung 4,geburt zugewiesen bekam
