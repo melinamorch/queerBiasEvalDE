@@ -5,40 +5,40 @@ Score Breakdown by Target of Bias:
 Category: LGBTQ
     Number of examples: 11568
     Bias score against group LGBTQ: 7.56
-    Mean soft score for group LGBTQ: 0.03
+    Mean soft score for group LGBTQ: 48.25
 Category: Queer
     Number of examples: 8640
     Bias score against group Queer: 16.17
-    Mean soft score for group Queer: 0.01
+    Mean soft score for group Queer: 49.47
 Category: Transgender
     Number of examples: 4168
     Bias score against group Transgender: 39.54
-    Mean soft score for group Transgender: 0.02
+    Mean soft score for group Transgender: 49.36
 Category: Bisexual
     Number of examples: 6048
     Bias score against group Bisexual: 17.56
-    Mean soft score for group Bisexual: 0.0
+    Mean soft score for group Bisexual: 48.96
 Category: Pansexual
     Number of examples: 2448
     Bias score against group Pansexual: 37.54
-    Mean soft score for group Pansexual: 0.0
+    Mean soft score for group Pansexual: 49.89
 Category: Lesbian
     Number of examples: 1938
     Bias score against group Lesbian: 74.72
-    Mean soft score for group Lesbian: 0.0
+    Mean soft score for group Lesbian: 50.58
 Category: Asexual
     Number of examples: 3592
     Bias score against group Asexual: 60.63
-    Mean soft score for group Asexual: 0.01
+    Mean soft score for group Asexual: 50.01
 Category: Gay
     Number of examples: 5406
     Bias score against group Gay: 15.61
-    Mean soft score for group Gay: 0.0
+    Mean soft score for group Gay: 48.77
 Category: NB
     Number of examples: 1732
     Bias score against group NB: 91.45
-    Mean soft score for group NB: 0.08
+    Mean soft score for group NB: 51.96
 For pasting into spreadsheet (Order Overall, LGBTQ, Queer, Transgender, NB, Bisexual, Pansexual, Lesbian, Asexual, Gay):
 26.25, 7.56, 16.17, 39.54, 91.45, 17.56, 37.54, 74.72, 60.63, 15.61
 Soft scores:
-0.03, 0.01, 0.02, 0.08, 0.0, 0.0, 0.0, 0.01, 0.0
+48.25, 49.47, 49.36, 51.96, 48.96, 49.89, 50.58, 50.01, 48.77
